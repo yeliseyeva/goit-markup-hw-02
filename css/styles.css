@@ -160,8 +160,17 @@ footer{
     letter-spacing: 0.03em;
 }
 
+address{
+    font-style: normal;
+}
+
 .logo-footer{
     color: #fff;
+
+    font-family:Raleway, sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
 }
 
 .footer-link{
